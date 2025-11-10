@@ -121,8 +121,6 @@ Exemplo de payload:
 - Adicionar validação de entrada (ex.: Joi, Zod) e testes automatizados
 - Configurar scripts `dev`, `build` e `start`
 
----
 
-Se precisar de ajuda para evoluir a API, configurar deploy ou adicionar testes, abra uma issue ou contribua com um pull request!
 
 
